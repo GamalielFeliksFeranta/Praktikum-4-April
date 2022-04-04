@@ -15,7 +15,7 @@ namespace Praktikum_4_April
 
             string Tulisanku = TbInputan.Text;
 
-            LbOutput.Text = Tulisanku;
+            LbOutput.Text = Tulisanku; 
 
         }
 
